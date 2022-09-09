@@ -8,10 +8,13 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in the development mode.
 
-The page will reload when you make changes.\
+This application is also hosted using "FIREBASE" and can be accessed using the followingg URL :: Open ( https://reactjs-68f43.web.app ) to view it in the browser.
+
+Note :: This application currently is not mobile Responsive , unwanted distortion can be shown in smaller screens.
+
+The page will reload when you make changes.
 You may also see any lint errors in the console.
 
 ### `npm test`

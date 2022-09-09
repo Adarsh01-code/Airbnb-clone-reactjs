@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting project was created using npx-create-react-app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-This application is also hosted using "FIREBASE" and can be accessed using the followingg URL :: Open ( https://reactjs-68f43.web.app ) to view it in the browser.
+This application is also hosted using "FIREBASE" and can be accessed using the followingg URL :: Open ( **https://airbnb-clone-8d257.web.app/** ) to view it in the browser.
 
 Note :: This application currently is not mobile Responsive , unwanted distortion can be shown in smaller screens.
 

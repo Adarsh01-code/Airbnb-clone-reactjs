@@ -1,0 +1,64 @@
+.card{
+    border-radius: 15px;
+    overflow: hidden;
+    cursor: pointer;
+    height: 290px;
+    max-width: 300px;
+    object-fit: contain;
+    margin: 15px;
+    
+}
+.card:hover{
+    opacity: 0.95;
+}
+.star h4 {
+    font-weight: 400;
+    color: black;
+    padding-left: 2px;
+    margin-top: -1px;
+}
+.heart {
+    margin-left: 260px;
+    margin-top: 44px;
+    cursor: pointer;
+    
+}
+
+.card img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: 100;
+}
+
+.card_info{
+    margin-left: 16px;
+    
+}
+
+.card_info > h2{
+    font-weight: 500;
+    font-size: 16px;
+}
+.card_info > h3 {
+    font-weight: 500;
+    margin-top: 13px;
+    font-size: medium;
+    
+}
+
+
+.card_info > h4 {
+    font-weight: 400;
+    font-size: 15px;
+    color: gray;
+    padding-left: 3px;
+}
+.star {
+    margin-left: 245px;
+    margin-top: -90px;
+    display: flex;
+    
+}
+
+

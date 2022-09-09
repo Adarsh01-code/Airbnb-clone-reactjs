@@ -1,0 +1,27 @@
+.searchPage {
+    max-width: 100vw;
+    margin-left: 130px;
+
+}
+.searchPage_info {
+    padding: 40px;
+}
+.searchPage_info > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+.searchPage_info > h1 {
+    margin-bottom: 30px;
+    color: #FF7377;
+   
+}
+.searchPage_info > button {
+    border-radius: 12px;
+    text-transform: inherit;
+    margin-right: 10px;
+    padding-left: 10px;
+    border: 1px solid #D3D3D3;
+}
+.searchPage_info > button:hover {
+    background-color: whitesmoke;
+}

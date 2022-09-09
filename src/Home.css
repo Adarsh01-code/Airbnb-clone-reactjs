@@ -1,0 +1,16 @@
+.home_section {
+    display: flex;
+    margin: 35px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 50px;
+    z-index: -1;
+    
+}
+.showmap_home{
+    z-index: 20;
+    top: 0;
+    position: relative;
+    padding-bottom: 120px;
+    
+}

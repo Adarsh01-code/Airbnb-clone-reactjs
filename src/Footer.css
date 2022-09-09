@@ -1,0 +1,38 @@
+.footer {
+    padding-top: 11px;
+    background-color: white;
+    border-top: 1px solid #EBEBE4;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 6px;
+    bottom:0;
+    position: sticky;
+    
+}
+
+.footer > p {
+    
+    font-size:14px;
+    font-weight: 400;
+    color: gray;
+    margin-left: 140px;
+    margin-right: 130px;
+    display: flex;
+    flex-direction: row;
+}
+
+.para_left p{
+    padding-left: 10px;
+    font-weight: 400;
+    color: gray;
+}
+
+.para_right p{
+    padding-left: 15px;
+    font-weight: 500;
+
+}
+
+
+
+

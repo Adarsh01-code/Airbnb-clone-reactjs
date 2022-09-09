@@ -1,0 +1,30 @@
+.showmap{
+    display: flex;
+    font-size: 15px;
+    /* max-width: 106px; */
+    border-radius: 999px;
+    padding-left: 19px;
+    padding-right: 18px;
+    padding-top: 13px;
+    padding-bottom: 9px;
+    background-color: #17182b;
+    z-index: 20;
+    top: 0;
+    position: fixed;
+    margin-top: 800px;
+    margin-left: 880px;
+}
+.showmap:hover{
+    transform: scale(1.05);
+    transition: all 0.25s ease-in-out;
+    cursor: pointer;
+}
+.showmap p{
+    color: aliceblue;
+    font-weight: 600;
+    font-size: 14px;
+
+}
+.showmap_icon{
+    margin-left: 9px;
+}
